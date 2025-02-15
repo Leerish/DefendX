@@ -16,7 +16,8 @@ Facial Recognition-Based Access Control Authorized users' facial data are pre-re
 Python – Base programming language. OpenCV – Face detection and image processing. 
 Microsoft Azure Face API – Cloud-based facial recognition. 
 PyQt – GUI development. 
-Power Automate – Automates image notifications and alerts. Database – Stores facial data for authenticated users. 
+Power Automate – Automates image notifications and alerts. 
+Database – Stores facial data for authenticated users. 
 Potential Applications 
 University Campuses– Prevents unauthorized access and student safety assurance. 
 Corporate Offices – Secures the building by restricting access to authorized personnel. 
